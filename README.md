@@ -19,13 +19,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ### For creating and exporting default icons:-
 
- https://www.fluttericon.com/
+    https://www.fluttericon.com/
 
 ### For Applying the various colour patterns and changes:- 
 
-https://pub.dev/packages/painter
-
-https://flutter.dev/docs/development/ui/widgets/painting
+    https://pub.dev/packages/painter
+    https://flutter.dev/docs/development/ui/widgets/painting
 
 ### For Database(for CRUD operations):-
 
