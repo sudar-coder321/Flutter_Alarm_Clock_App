@@ -1,6 +1,6 @@
 # alarm_clock_app
 
-A new Flutter project.
+This is a simple Alarm Clock App Built using Flutter. It features a simple UI interface with the functionalities for Clock and Alarm.
 
 ## Getting Started
 
@@ -14,3 +14,21 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Interesting Tools and Packages:- 
+
+### For creating and exporting default icons:-
+
+ https://www.fluttericon.com/
+
+### For Applying the various colour patterns and changes:- 
+
+https://pub.dev/packages/painter
+
+https://flutter.dev/docs/development/ui/widgets/painting
+
+### For Database(for CRUD operations):-
+
+   #### SQLite
+        https://levelup.gitconnected.com/crud-with-flutter-and-sqlite-de3a68759531
+
